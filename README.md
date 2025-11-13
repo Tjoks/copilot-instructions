@@ -8,10 +8,9 @@ This folder contains a set of generic instruction files for data science and ana
 - `prompts/`: Reusable prompt templates for agentic workflows (e.g., stepwise script optimization)
 
 ## How to Use
-1. **Copy this folder** into your project under `.github/instructions-template/` or another suitable location.
+1. **Copy this folder** into the `.github/` folder of your project.
 2. **Customize placeholders** in each file to match your domain, team, and technical stack (e.g., time conventions, style files, language preferences).
-3. **Reference these instructions** in your project documentation and onboarding materials.
-4. **Update the files** as your team's practices evolve. See the maintenance guidelines in `copilot-instructions.md` for details.
+3. **Update the files** as your team's practices evolve. See the maintenance guidelines in `copilot-instructions.md` for details.
 
 ## Key Features
 - Organization-agnostic: No references to specific companies, domains, or folder structures
@@ -31,5 +30,6 @@ This folder contains a set of generic instruction files for data science and ana
 - Periodically review and refine the business context and technical guidelines
 
 ---
+
 
 For questions or suggestions, contact your project maintainer or add issues to your repository.
